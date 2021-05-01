@@ -4,9 +4,8 @@ My Blog
 This is my personal blog.
 
 Created based on this [jekyll theme], running on github pages at 
-[https:arielbello.github.io].
+https://arielbello.github.io.
 
-[https:arielbello.github.io]: https:arielbello.github.io
 [jekyll theme]: https://github.com/niklasbuschmann/contrast
 
 
